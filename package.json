@@ -17,6 +17,6 @@
     "babel-preset-minify": "^0.5.1",
     "lodash.isequal": "^4.5.0",
     "webpack": "^4.41.5",
-    "webpack-cli": "^3.3.10"
+    "webpack-cli": "^3.3.12"
   }
 }
